@@ -57,10 +57,9 @@ Do the following:
    HINT: look up the Number method
 */
 
-var firstVariable = "1999";
-var firstVariable = 1999;
+const firstVariable = "1999";
 
-console.log(firstVariable);
+console.log(Number(firstVariable));
 
 /*
 Task 1d - Multiply
@@ -310,7 +309,7 @@ function vowelCounter(/*add your code here*/) {
   /*add your code here*/
 }
 
-
+git add
 
 /*🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑 Please do not modify anything below this line 🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑*/
 function foo(){
